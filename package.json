@@ -3,19 +3,24 @@
   "name": "ep_font_size_citizenos",
   "version": "0.1.11",
   "license": "Apache-2.0",
-  "author": {
-    "name": "Shchukina Svetlana",
-    "email": "bistroplit@gmail.com"
-  },
+  "author": "Shchukina Svetlana <bistroplit@gmail.com>",
   "dependencies": {},
   "peerDependencies": {
-    "ep_etherpad-lite":">=1.5.1"
+    "ep_etherpad-lite": ">=1.5.1"
   },
   "engines": {
     "node": "*"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SvetaPrepPrep/ep_font_size_citizenos.git"
+    "url": "git+https://github.com/SvetaPrepPrep/ep_font_size_citizenos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SvetaPrepPrep/ep_font_size_citizenos/issues"
+  },
+  "homepage": "https://github.com/SvetaPrepPrep/ep_font_size_citizenos#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
