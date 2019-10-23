@@ -1,0 +1,21 @@
+{
+  "description": "Add support for Font Sizes",
+  "name": "ep_font_size_citizenos",
+  "version": "0.1.11",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Shchukina Svetlana",
+    "email": "bistroplit@gmail.com"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "ep_etherpad-lite":">=1.5.1"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SvetaPrepPrep/ep_font_size_citizenos.git"
+  }
+}
