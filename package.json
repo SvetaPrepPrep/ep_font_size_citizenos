@@ -1,7 +1,7 @@
 {
   "description": "Add support for Font Sizes",
   "name": "ep_font_size_citizenos",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "license": "Apache-2.0",
   "author": "Shchukina Svetlana <bistroplit@gmail.com>",
   "dependencies": {},
